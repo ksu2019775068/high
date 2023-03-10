@@ -1,0 +1,24 @@
+git
+
+gs.statcounter.com
+https://html5test.com/
+
+웹으로 취직할 때 kotlin spring  (코프링)같이 포폴만들면 좋다
+하이브리드앱 = 네이티브앱+웹앱의 장점 합친것
+할 수 있으면 네이티브앱으로 해라
+
+제안요청서!
+근데 나는 개발자 안할건데...
+
+uri url urn	
+
+deepl-번역
+
+css framework 2023
+
+DOM개념 확실히
+
+버튼보다는 리스트뷰가 보기도 좋고 활용도 좋은것같다
+
+mintro.html 을 독도페이지처럼
+포폴만들기
